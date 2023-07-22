@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Best-Football-Players-React-App-/static/css/main.e6c13ad2.css",
+    "main.js": "/Best-Football-Players-React-App-/static/js/main.d153d031.js",
+    "index.html": "/Best-Football-Players-React-App-/index.html",
+    "main.e6c13ad2.css.map": "/Best-Football-Players-React-App-/static/css/main.e6c13ad2.css.map",
+    "main.d153d031.js.map": "/Best-Football-Players-React-App-/static/js/main.d153d031.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d153d031.js"
+  ]
+}
